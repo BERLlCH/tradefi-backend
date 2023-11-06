@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "allowSyntheticDefaultImports": true,
+    "module": "commonjs",
+    "moduleResolution": "Node",
+    "pretty": true,
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "removeComments": true,
+    "target": "es6",
+    "outDir": "./dist",
+    "baseUrl": "./src",
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules", "dist"]
+}

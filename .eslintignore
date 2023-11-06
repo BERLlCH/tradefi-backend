@@ -1,0 +1,6 @@
+src/migrations/**
+node_modules
+artifacts
+cache
+coverage
+dist
