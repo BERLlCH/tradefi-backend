@@ -1,0 +1,3 @@
+[submodule "daosign"]
+	path = daosign
+	url = git@github.com:BERLlCH/daosign-backend.git
